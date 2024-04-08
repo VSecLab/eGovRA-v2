@@ -4,6 +4,7 @@ eGov_RA Repository is an client-server application that provides a tool to obtai
 # Methodology
 
 The methodology is fully described in this work:
+
 Granata, D., Rak, M., Salzillo, G., Di Guida, G., & Petrillo, S. (2023). Automated threat modelling and risk analysis in e-Government using BPMN. Connection Science, 35(1). https://doi.org/10.1080/09540091.2023.2284645
 
 The application is developed using the following technologies:
